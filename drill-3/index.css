@@ -1,0 +1,60 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+.sections {
+    width: 100%;
+    height: 200px;
+}
+
+#grey {
+    background-color: lightgrey;
+    height: 100px;
+    padding: 25px;
+}
+.blue-square {
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+
+}
+
+#white {
+    background-color: white;
+    height: 300px;
+}
+
+
+#blue {
+    background-color: cornflowerblue;
+}
+
+#seafoam {
+    background-color: rgb(150, 219, 185);
+}
+
+#sage {
+    background-color: rgb(177, 197, 136);
+}
+
+#goldenrod {
+    background-color: gold;
+}
+
+.black-circle {
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: black;
+    box-sizing: border-box;
+}
+
+p {
+    margin:0;
+    padding: 25px;
+    text-align: center;
+    color: white;
+    font-size: 24pt;
+
+}
